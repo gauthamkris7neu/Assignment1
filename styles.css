@@ -22,12 +22,12 @@ header {
 }
 
 
-menu ul li {
+menu li {
     display: inline;
     margin-right: 20px;
 }
 
-menu ul li a {
+menu li a {
     color: white;
     text-decoration: none;
 }
