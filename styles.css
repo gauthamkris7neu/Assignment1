@@ -1,0 +1,105 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+
+menu ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+menu ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+}
+
+details {
+    margin-bottom: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+}
+
+#join {
+    background-color: #ffffff; 
+    padding: 20px;
+    border: 1px solid #ddd; 
+}
+
+#join form {
+    display: block;
+}
+
+#join label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#join input[type="text"],
+#join input[type="email"] {
+    width: 40%;
+    padding: 8px;
+    margin-bottom: 10px; 
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#join input[type="submit"] {
+    background-color: #333; 
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#contact {
+    background-color: #ffffff; 
+    padding: 20px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+#contact a {
+    color: #333; 
+    text-decoration: none;
+    padding: 5px 10px;
+    margin: 5px;
+    display: inline-block;
+}
+
+#contact a:hover {
+    text-decoration: underline; 
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
