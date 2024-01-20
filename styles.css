@@ -9,6 +9,11 @@ body {
     background-size: cover;
 }
 
+#home {
+    padding: 20px;
+    text-align: center;
+}
+
 header {
     background-color: #333;
     color: white;
